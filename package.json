@@ -1,0 +1,12 @@
+{
+  "name": "node-api-postgres",
+  "version": "1.0.0",
+  "description": "A RESTful API with NodeJS, ExpressJS and PostgreSQL",
+  "main": "app/index.js",
+  "author": "Harrison Howard",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
+}
